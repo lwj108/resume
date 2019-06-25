@@ -29,7 +29,7 @@
 #### 个人博客（3个阶段）
 > **第一阶段**：从大学时期在CSDN上开始写博客，至今还保持着博客的更新。记录着从我菜鸟萌新到踏入coder行列一员。博客地址：[夏天的棒棒冰](https://blog.csdn.net/sinat_35790812) （至今已发表了50+文章）<br>
 > **第二阶段**：利用个人VPS基于LNMP搭建的wordpress博客，迁移之前在CSDN上的博客文章，并在后续持续更新个人日常积累的问题及解决方法。还会发布些日常生活琐事，用于积累生活中的点滴。搭建环境及配置：搬瓦工VPS，GoDaddy域名，Linux，Nginx，MySQL，PHP。（后由于神秘力量被IP墙）<br>
-> **第三阶段**：基于Github Pages，曾尝试Hexo，Hugo到最终选择Jekyll搭建的个人博客。(博客地址为： [lwj108-Blog](http://www.liweijunhome.cn) )
+> **第三阶段**：基于Github Pages，曾尝试Hexo，Hugo到最终选择Jekyll搭建的个人博客。(博客地址为： [lwj108-Blog](https://www.liweijunhome.cn) )
 #### 毕设作品-家庭财务管理系统
 > 后台运用了SpringMVC,Spring,MyBatis框架和MySQL数据库及Navicat，编写家庭财务管理系统的需求调研,分析,设计，完成需求模块开发；前端语言主要使用HTML和jQuery框架以及ajax异步请求。<br>
 > 代码已上传 [Github-myffms](https://github.com/lwj108/myffms)
