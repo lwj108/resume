@@ -8,7 +8,8 @@
 ## 个人信息
  * 性别：男  出生年月：1994/08 
  * 教育信息：本科/安徽工业大学/计算机科学与技术专业 
- * 个人博客：http://liweijunhome.cn
+ * 个人博客：https://liweijunhome.cn
+ * 个人作品：http://www.wakk.space
  * CSDN博客：https://blog.csdn.net/sinat_35790812
  * Github：http://github.com/lwj108
  * 期望职位：Java开发工程师
@@ -33,6 +34,8 @@
 #### 毕设作品-家庭财务管理系统
 > 后台运用了SpringMVC,Spring,MyBatis框架和MySQL数据库及Navicat，编写家庭财务管理系统的需求调研,分析,设计，完成需求模块开发；前端语言主要使用HTML和jQuery框架以及ajax异步请求。<br>
 > 代码已上传 [Github-myffms](https://github.com/lwj108/myffms)
+#### wakk.space
+> [wakk.space](http://www.wakk.space) 一个静态午休音乐网页，用于午休时放松心情。搭建环境及配置：virmachVPS，GoDaddy域名，Linux，Nginx。
 ## 技能清单
 #### 以下均为我熟练使用的技能
 * 开发主语言：Java
